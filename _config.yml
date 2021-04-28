@@ -36,6 +36,11 @@ plugins:
   - jekyll-feed
 category_dir: category/
 tag_dir: tag/
+categories:
+  - first:学习笔记
+    last:8
+  - first:错误问题
+    last:3
 
 # Exclude from processing.
 # The following items will not be processed, by default.
