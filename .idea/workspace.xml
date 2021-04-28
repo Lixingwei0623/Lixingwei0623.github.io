@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecc1a0e5-f058-4a44-99b2-bfb648f8fa3e" name="Default Changelist" comment="">
+    <list default="true" id="ecc1a0e5-f058-4a44-99b2-bfb648f8fa3e" name="Default Changelist" comment="分类修改1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +47,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619614567492</updated>
-      <workItem from="1619614570235" duration="7573000" />
+      <workItem from="1619614570235" duration="10298000" />
     </task>
+    <task id="LOCAL-00001" summary="分类修改1">
+      <created>1619624836757</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619624836757</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,5 +72,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="分类修改1" />
+    <option name="LAST_COMMIT_MESSAGE" value="分类修改1" />
   </component>
 </project>
