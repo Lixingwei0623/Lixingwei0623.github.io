@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecc1a0e5-f058-4a44-99b2-bfb648f8fa3e" name="Default Changelist" comment="添加头像">
-      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
+    <list default="true" id="ecc1a0e5-f058-4a44-99b2-bfb648f8fa3e" name="Default Changelist" comment="头像格式">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-12-17-Linux下的C语言入门（ubuntu为例）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-01-09-python基础知识(具备其他编程语言基础快速上手python).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-02-20-Node.js基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-03-06-PHP基础学习简单上手.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-04-08-密码学基础(对称加密和非对称加密).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-04-21-linux下idea、pycharm等输入中文拼音时满3个字母后无法继续拼音输入（问题带图描述！！）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-04-24-区块链的简单实现.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-04-25-ubuntu根目录空间太小的数据备份并恢复完整重装.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-04-26-linux根目录空间太小需要重装并保留原有数据和环境.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-01-02-post1.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-01-02-welcome-to-jekyll.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-12-05-how-to-install dual sysytems.md.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-12-11-github.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-12-5-Linux系统（ubuntu）常用命令--初学版.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +31,9 @@
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1rnazCZb6BZZjOL6xYKj2vST7ah" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,6 +58,19 @@
       <recent name="$PROJECT_DIR$/public/img" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619614567492</updated>
-      <workItem from="1619614570235" duration="14967000" />
+      <workItem from="1619614570235" duration="16353000" />
     </task>
     <task id="LOCAL-00001" summary="分类修改1">
       <created>1619624836757</created>
@@ -86,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619632064784</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="头像格式">
+      <created>1619632359411</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619632359411</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +146,7 @@
     <MESSAGE value="修改导航错误" />
     <MESSAGE value="修改导航错误2" />
     <MESSAGE value="添加头像" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加头像" />
+    <MESSAGE value="头像格式" />
+    <option name="LAST_COMMIT_MESSAGE" value="头像格式" />
   </component>
 </project>
