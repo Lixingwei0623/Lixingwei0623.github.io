@@ -1,8 +1,11 @@
 <div class="sidebar-item sidebar-header">
-	<div class='sidebar-brand'>
-		<a href="/about/">{{ site.title }}</a>
+	<div style="border-radius: 50%;width:100px;height:100px;background-color:orange;margin-left:80px;">
+		<img src="../public/img/profile.jpg" alt="lxw">
 	</div>
-	<p class="lead">{{ site.description }}</p>
+	<div class='sidebar-brand'>
+		<a href="/about/" style="margin-left: 30px;">{{ site.title }}</a>
+	</div>
+	<p class="lead" style="margin-left: 10px;">{{ site.description }}</p>
 	{%- if social.github -%}
 		<a rel="me" href="https://github.com/{{ social.github | cgi_escape | escape }}" title="{{ social.github | escape }}">
 			<svg class="svg-icon grey">
