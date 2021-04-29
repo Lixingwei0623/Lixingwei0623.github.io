@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecc1a0e5-f058-4a44-99b2-bfb648f8fa3e" name="Default Changelist" comment="导航栏调整">
+    <list default="true" id="ecc1a0e5-f058-4a44-99b2-bfb648f8fa3e" name="Default Changelist" comment="导航栏调整适配移动端">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,8 @@
       <updated>1619614567492</updated>
       <workItem from="1619614570235" duration="16611000" />
       <workItem from="1619659944787" duration="2199000" />
-      <workItem from="1619672495057" duration="3208000" />
+      <workItem from="1619672495057" duration="3583000" />
+      <workItem from="1619684354857" duration="1605000" />
     </task>
     <task id="LOCAL-00001" summary="分类修改1">
       <created>1619624836757</created>
@@ -120,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619675429137</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="导航栏调整适配移动端">
+      <created>1619675972044</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1619675972044</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +156,7 @@
     <MESSAGE value="更新已写文章" />
     <MESSAGE value="解决头像路径" />
     <MESSAGE value="导航栏调整" />
-    <option name="LAST_COMMIT_MESSAGE" value="导航栏调整" />
+    <MESSAGE value="导航栏调整适配移动端" />
+    <option name="LAST_COMMIT_MESSAGE" value="导航栏调整适配移动端" />
   </component>
 </project>

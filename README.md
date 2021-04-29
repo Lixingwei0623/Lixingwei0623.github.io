@@ -1,33 +1,19 @@
 ---
 layout: page
-title: About
+title: 长理小生
 permalink: /about/
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
+## 笔名
+> “长理小生”为一笔名，意为长沙理工一普通学生，或还有其他笔名，诸如“罹伤”。
 
-### Features
-- Responsive.
-- Syntax Highlight
-- Most optimized theme for tech blog.
-- Lightweight with minimum stylesheet.
-- Easy to customize.
-- Offers category menu.
+### 博客
+- 姓名拼音：lixingwei
+- 学校专业：长沙理工计算机
+- 邮箱：li_xing_wei@qq.com
+- csdn:https://blog.csdn.net/qq_43289711
+- 知乎：https://www.zhihu.com/people/li-shang-24-38-74
+- github:https://github.com/Lixingwei0623
+- gitee:https://gitee.com/li-xingwei
 
-### _config.yml
-> Code block will look like this.
-```yml
-highlighter-theme: monokai //you can change your syntax color scheme.
-date_format: "%Y-%M-%D" //and date format.
-```
 
-### Screenshots
-#### Page
-![alt text](/public/img/screenshot-1.png)
-#### Articles
-![alt text](/public/img/screenshot-2.png)
-#### Page - Mobile
-![alt text](/public/img/screenshot-m1.png)
-#### Page - Articles
-![alt text](/public/img/screenshot-m2.png)
