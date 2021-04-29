@@ -1,11 +1,11 @@
 <div class="sidebar-item sidebar-header">
-	<div style="border-radius: 50%;width:100px;height:100px;background-color:orange;margin-left:80px;">
-		<img src="../public/img/profile.jpg" alt="lxw" width="100%" height="100%" style="border-radius: 50%;">
+	<div style="border-radius: 50%;width:100px;height:100px;background-color:orange;margin-left:30%;">
+		<img src="/public/img/profile.jpg" alt="lxw" width="100%" height="100%" style="border-radius: 50%;">
 	</div>
-	<div class='sidebar-brand'>
-		<a href="/about/" style="margin-left: 30px;">{{ site.title }}</a>
+	<div class='sidebar-brand' style="width: 100%;">
+		<a href="/about/" style="margin-left: 12%;">{{ site.title }}</a>
 	</div>
-	<p class="lead" style="margin-left: 10px;">{{ site.description }}</p>
+	<p class="lead" style="margin-left: 3%;">{{ site.description }}</p>
 	{%- if social.github -%}
 		<a rel="me" href="https://github.com/{{ social.github | cgi_escape | escape }}" title="{{ social.github | escape }}">
 			<svg class="svg-icon grey">
