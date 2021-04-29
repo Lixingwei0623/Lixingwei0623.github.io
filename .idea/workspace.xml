@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecc1a0e5-f058-4a44-99b2-bfb648f8fa3e" name="Default Changelist" comment="导航栏调整适配移动端">
+    <list default="true" id="ecc1a0e5-f058-4a44-99b2-bfb648f8fa3e" name="Default Changelist" comment="About长理小生">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
       <workItem from="1619614570235" duration="16611000" />
       <workItem from="1619659944787" duration="2199000" />
       <workItem from="1619672495057" duration="3583000" />
-      <workItem from="1619684354857" duration="1605000" />
+      <workItem from="1619684354857" duration="2583000" />
     </task>
     <task id="LOCAL-00001" summary="分类修改1">
       <created>1619624836757</created>
@@ -128,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619675972044</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="About长理小生">
+      <created>1619685994239</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1619685994239</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +165,7 @@
     <MESSAGE value="解决头像路径" />
     <MESSAGE value="导航栏调整" />
     <MESSAGE value="导航栏调整适配移动端" />
-    <option name="LAST_COMMIT_MESSAGE" value="导航栏调整适配移动端" />
+    <MESSAGE value="About长理小生" />
+    <option name="LAST_COMMIT_MESSAGE" value="About长理小生" />
   </component>
 </project>
